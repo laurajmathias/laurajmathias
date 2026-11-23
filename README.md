@@ -10,9 +10,9 @@ Entrei na tecnologia pelo **design e pelo UX/UI** e agora estou migrando para o 
 - 💻 Codar
 - 🎨 Fazer designs
 
-## Minha stack
+## Stack em que estou me desenvolvendo
 
-**Back-end** (o que usei na Lia Messages API)
+**Back-end** (praticando)
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -32,7 +32,7 @@ Entrei na tecnologia pelo **design e pelo UX/UI** e agora estou migrando para o 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
-## Projetos
+## Projeto
 
 ### 🧠 AttoBrain: meu Projeto Integrador da FATEC
 
@@ -44,14 +44,8 @@ Um sistema de **jogo sério de labirinto**, com **BCI** e **visão computacional
 - **BCI** (interface cérebro-computador): tecnologia que liga sinais do cérebro a um computador.
 - **Visão computacional**: o computador interpretando imagens captadas por uma câmera.
 
-### 💬 Lia Messages API
-
-[Lia-Messages-API](https://github.com/laurajmathias/Lia-Messages-API)
-
-API de mensagens (CRUD) para uma assistente de vendas no WhatsApp, feita para um teste técnico. Usa Node.js, TypeScript, Express, Prisma e MySQL em Docker, com validação via Zod e 20 testes de integração contra um banco real.
-
 ## Do design ao código
 
-Eu venho do design e do UX/UI, e isso aparece no jeito como eu programo: penso em quem vai usar. Na API, isso virou erros claros e padronizados e um README escrito para qualquer pessoa conseguir rodar o projeto.
+Eu venho do design e do UX/UI, e isso aparece no jeito como eu programo: penso em quem vai usar. Agora estou aprendendo a construir também o que antes eu só desenhava.
 
-Fique à vontade para dar uma olhada nos meus repositórios 😄
+Fique à vontade para dar uma olhada nos meus repositórios 😄 
