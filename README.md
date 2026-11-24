@@ -1,4 +1,4 @@
-# Oi, eu sou a Laura! 👋
+# Oi, eu sou a Laura! 
 
 Estudante de **Desenvolvimento de Software Multiplataforma** na **FATEC Registro**, no 2º semestre.
 
@@ -48,4 +48,4 @@ Um sistema de **jogo sério de labirinto**, com **BCI** e **visão computacional
 
 Eu venho do design e do UX/UI, e isso aparece no jeito como eu programo: penso em quem vai usar. Agora estou aprendendo a construir também o que antes eu só desenhava.
 
-Fique à vontade para dar uma olhada nos meus repositórios 😄 
+Fique à vontade para dar uma olhada nos meus repositórios 
